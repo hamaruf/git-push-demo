@@ -1,0 +1,74 @@
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\ApplicationInsights.config
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\cytogeyny.dll.config
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\cytogeyny.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\cytogeyny.pdb
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.AI.DependencyCollector.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.AI.Web.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.AI.WindowsServer.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.ApplicationInsights.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.Threading.Tasks.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\System.IO.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\System.Runtime.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\System.Threading.Tasks.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.AI.DependencyCollector.xml
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.AI.Web.xml
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.AI.WindowsServer.xml
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.ApplicationInsights.xml
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.Threading.Tasks.xml
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\System.IO.xml
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\System.Runtime.xml
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\System.Threading.Tasks.xml
+D:\Repositories\Workplace\cytogeyny\cytogeyny\obj\Debug\cytogeyny.csproj.App.config
+D:\Repositories\Workplace\cytogeyny\cytogeyny\obj\Debug\cytogeyny.csprojResolveAssemblyReference.cache
+D:\Repositories\Workplace\cytogeyny\cytogeyny\obj\Debug\cytogeyny.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\obj\Debug\cytogeyny.pdb
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.Web.Infrastructure.dll
+D:\Repositories\Workplace\cytogeyny\cytogeyny\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\ApplicationInsights.config
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\cytogeyny.dll.config
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\cytogeyny.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\cytogeyny.pdb
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.AI.DependencyCollector.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.AI.Web.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.AI.WindowsServer.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.ApplicationInsights.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.Threading.Tasks.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.Web.Infrastructure.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\System.IO.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\System.Runtime.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\System.Threading.Tasks.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.AI.DependencyCollector.xml
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.AI.Web.xml
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.AI.WindowsServer.xml
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.ApplicationInsights.xml
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.Threading.Tasks.xml
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\System.IO.xml
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\System.Runtime.xml
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\bin\System.Threading.Tasks.xml
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\obj\Debug\cytogeyny.csproj.App.config
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\obj\Debug\cytogeyny.csprojResolveAssemblyReference.cache
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\obj\Debug\cytogeyny.dll
+D:\Repositories\Workplace\Box Sync\Startup\cytogeyny\cytogeyny\obj\Debug\cytogeyny.pdb
